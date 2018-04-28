@@ -46,7 +46,7 @@ Java Enterprise Online Project
 ##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZDdaaU5fZEo4X3c">Работа с проектом (выполнять инструкции)</a>
 **ВНИМАНИЕ: выбирайте для проекта простой пусть без пробелов и русских букв, например (Windows) `c:\projects\topjava\`. Иначе впоследствии будут проблемы**
 > Проект постоянно улучшается, поэтому видео иногда отличается от кода проекта. Изменения указываю после видео: в `UserMeals/UserMealWithExceed` поля изменились на `private`
-- **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFRXM4WVdTTGN3Q28">Prepare_ to_ HW0.patch (скачать и положить в каталог вашего проекта)</a>**
+- **<a href="https://drive.google.com/open?id=1zRIqAeLYGMb4T3JOrqDQv6ZN7HwWqgS_">Prepare_ to_ HW0.patch (скачать и положить в каталог вашего проекта)</a>**
 
 ##  Инструкция по шагам (из видео):</h3>
 -  <a href="http://javaops.ru/view/soft">Установить ПО (git, JDK8, IntelliJ IDEA, Maven)</a>
