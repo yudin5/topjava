@@ -1,4 +1,8 @@
 # TopJava Release Notes
+### Topjava 13
+- [Мигрировал на Botstrap 4](https://getbootstrap.com/docs/4.1/migration/)
+- Для отображения цвета еды и выключенного юзера использую [data-* атрибуты](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
+
 ### Topjava 12
 - обновил версии: Spring 5.x, Spring Data 2.x, Ehcache 3.x, datatables, datetimepicker
 - добавил видео решений HW0 с одним проходом
