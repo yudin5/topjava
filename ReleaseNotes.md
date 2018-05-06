@@ -1,6 +1,6 @@
 # TopJava Release Notes
 ### Topjava 13
-- [Мигрировал на Botstrap 4](https://getbootstrap.com/docs/4.1/migration/)
+- [Миграция на Botstrap 4](https://getbootstrap.com/docs/4.1/migration/)
 - Для отображения цвета еды и выключенного юзера использую [data-* атрибуты](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
 
 ### Topjava 12
