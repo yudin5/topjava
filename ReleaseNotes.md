@@ -2,6 +2,7 @@
 ### Topjava 13
 - [Миграция на Botstrap 4](https://getbootstrap.com/docs/4.1/migration/)
 - Для отображения цвета еды и выключенного юзера использую [data-* атрибуты](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
+- В `inputField.tag` пердаю как параметр код для локализации label, а в `i18n.jsp` передаю как параметр `page`. См. [JSP include action with parameter example](https://beginnersbook.com/2013/12/jsp-include-with-parameter-example)
 
 ### Topjava 12
 - обновил версии: Spring 5.x, Spring Data 2.x, Ehcache 3.x, datatables, datetimepicker
